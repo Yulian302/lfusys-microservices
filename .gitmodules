@@ -1,0 +1,12 @@
+[submodule "sessions"]
+	path = sessions
+	url = https://github.com/Yulian302/lfusys-services-sessions.git
+[submodule "uploads"]
+	path = uploads
+	url = https://github.com/Yulian302/lfusys-services-uploads.git
+[submodule "commons"]
+	path = commons
+	url = https://github.com/Yulian302/lfusys-services-commons.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Yulian302/lfusys-services-gateway.git
